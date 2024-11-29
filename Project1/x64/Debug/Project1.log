@@ -1,0 +1,47 @@
+﻿  FileName.cpp
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(97,21): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(142,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(178,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(432,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(442,17): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(442,17): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(449,21): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(452,25): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(457,25): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(461,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(466,21): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(507,13): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(509,13): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(510,13): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(513,78): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(519,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(527,21): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(756,21): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(856,17): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(857,17): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(858,17): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(875,41): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(889,56): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(890,56): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(890,56): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(891,56): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(891,56): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(917,37): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(928,62): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(929,62): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(929,62): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(930,62): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(930,62): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(690,47): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(751,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(846,54): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1001,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1058,41): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1059,41): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1060,41): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1061,41): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1087,45): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1087,45): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1095,45): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\FINAL\Project1\Project1\FileName.cpp(1095,45): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+  Project1.vcxproj -> C:\Users\ASUS\Desktop\FINAL\Project1\x64\Debug\Project1.exe
