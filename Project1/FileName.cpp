@@ -1089,7 +1089,7 @@ void main() {
                                     db.ShowUserTestResults(userId);
                                 }
                                 else if (statChoiceInt == 5) {
-                                    // Heç bir əməliyyat yoxdur, sadəcə geri qayıtmaq üçün
+                                    
                                 }
                                 else {
                                     cout << "Yanlış seçim!" << endl;
